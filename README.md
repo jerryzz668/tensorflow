@@ -1,2 +1,2 @@
 # tensorflow
-code snippets of tensor flow
+code snippets of tensorflow
